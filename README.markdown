@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
-</p>
-
 Zsh-recall is a lightweight version of the Oh-My-Zsh project that aims to bundle the minimal required installation and it's tuned with my preferences. Yeah am too lazy :p
+</p>
 
 We higly recommend you to learn more about the original Oh-My-Zsh project through the official website [ohmyz.sh](http://ohmyz.sh).
 
