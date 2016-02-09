@@ -54,12 +54,7 @@ To change the theme you will need to edit the `~/.zshrc` file.
 ZSH_THEME="darks"
 ```
 
-To use a different theme, simply change the value to match the name of your desired theme. For example:
-
-```shell
-ZSH_THEME="agnoster" # (this is one of the fancy ones)
-```
-also there is an option that allow random theming.
+Also there is an option that allow random theming.
 
 ```shell
 ZSH_THEME="random" # (...please let it be pie... please be some pie..)
@@ -70,7 +65,7 @@ ZSH_THEME="random" # (...please let it be pie... please be some pie..)
 ##### 1. Clone the repository:
 
 ```shell
-git clone git://github.com/darks/oh-my-zsh.git ~/.oh-my-zsh
+git clone git://github.com/darks/oh-my-zsh.git ~/.zsh-recall
 ```
 
 ##### 2. *Optionally*, backup your existing `~/.zshrc` file:
@@ -95,7 +90,7 @@ chsh -s /bin/zsh
 
 ##### 5. Initialize your new zsh configuration
 
-Once you open up a new terminal window, it should load zsh with Oh My Zsh's configuration.
+Once you open up a new terminal window, it should load zsh with the new configuration.
 
 
 ### Custom Plugins and Themes
@@ -112,7 +107,7 @@ No updates Here, Yeah i just don't need to update my SHELL  configuration. Some 
 
 ## Uninstalling Oh My Zsh
 
-If you want to uninstall, just run `uninstall_oh_my_zsh` from the command-line. It will remove itself and revert your previous `bash` or `zsh` configuration.
+If you want to uninstall, just run `uninstall_zsh-recall` from the command-line. It will remove itself and revert your previous `bash` or `zsh` configuration.
 
 ## Contributor ?
 
